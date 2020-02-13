@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 53018,
-  "expoServerNgrokUrl": "https://43-sfi.altertecnologia.netflix-clone-react-native.exp.direct",
-  "packagerNgrokUrl": "https://packager.43-sfi.altertecnologia.netflix-clone-react-native.exp.direct",
-  "ngrokPid": 53035
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }

@@ -1,0 +1,278 @@
+[
+  {
+    "list_title": "special",
+    "list_type": "special",
+    "items": [
+      {
+        "name": "the flash",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836458-37d38000-52fe-11ea-94c3-b7b7f3424226.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "billions",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836451-35712600-52fe-11ea-8000-86c098240a8f.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the founder",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836477-3c983400-52fe-11ea-9315-37c14b056d11.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "vikings",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836479-3c983400-52fe-11ea-8256-ff28f3eb2862.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "perdidos no espaço",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836473-3b670700-52fe-11ea-806a-aa4321d675c2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the ranch",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836478-3c983400-52fe-11ea-983a-f49a5e380b22.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "sex education",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836476-3bff9d80-52fe-11ea-8b13-ff967e1f4844.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "peaky blinders",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836472-3b670700-52fe-11ea-9cbc-e39a11f3a7b0.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "narcos",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836464-3a35da00-52fe-11ea-8f7b-066a4d2f3e3b.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      }
+    ]
+  },
+  {
+    "list_title": "Minha lista",
+    "list_type": "normal",
+    "items": [
+      {
+        "name": "vikings",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836479-3c983400-52fe-11ea-8256-ff28f3eb2862.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "perdidos no espaço",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836473-3b670700-52fe-11ea-806a-aa4321d675c2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the ranch",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836478-3c983400-52fe-11ea-983a-f49a5e380b22.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the flash",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836458-37d38000-52fe-11ea-94c3-b7b7f3424226.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "billions",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836451-35712600-52fe-11ea-8000-86c098240a8f.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the founder",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836477-3c983400-52fe-11ea-9315-37c14b056d11.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "sex education",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836476-3bff9d80-52fe-11ea-8b13-ff967e1f4844.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "peaky blinders",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836472-3b670700-52fe-11ea-9cbc-e39a11f3a7b0.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "narcos",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836464-3a35da00-52fe-11ea-8f7b-066a4d2f3e3b.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      }
+    ]
+  },
+  {
+    "list_title": "Em alta",
+    "list_type": "normal",
+    "items": [
+      {
+        "name": "peaky blinders",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836472-3b670700-52fe-11ea-9cbc-e39a11f3a7b0.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "narcos",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836464-3a35da00-52fe-11ea-8f7b-066a4d2f3e3b.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "vikings",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836479-3c983400-52fe-11ea-8256-ff28f3eb2862.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "sex education",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836476-3bff9d80-52fe-11ea-8b13-ff967e1f4844.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "perdidos no espaço",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836473-3b670700-52fe-11ea-806a-aa4321d675c2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the ranch",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836478-3c983400-52fe-11ea-983a-f49a5e380b22.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the flash",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836458-37d38000-52fe-11ea-94c3-b7b7f3424226.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "billions",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836451-35712600-52fe-11ea-8000-86c098240a8f.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the founder",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836477-3c983400-52fe-11ea-9315-37c14b056d11.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      }
+    ]
+  },
+  {
+    "list_title": "Assistir novamente",
+    "list_type": "normal",
+    "items": [
+      {
+        "name": "the ranch",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836478-3c983400-52fe-11ea-983a-f49a5e380b22.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "narcos",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836464-3a35da00-52fe-11ea-8f7b-066a4d2f3e3b.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "peaky blinders",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836472-3b670700-52fe-11ea-9cbc-e39a11f3a7b0.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "vikings",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836479-3c983400-52fe-11ea-8256-ff28f3eb2862.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "sex education",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836476-3bff9d80-52fe-11ea-8b13-ff967e1f4844.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "perdidos no espaço",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836473-3b670700-52fe-11ea-806a-aa4321d675c2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the flash",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836458-37d38000-52fe-11ea-94c3-b7b7f3424226.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "billions",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836451-35712600-52fe-11ea-8000-86c098240a8f.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      },
+      {
+        "name": "the founder",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836477-3c983400-52fe-11ea-9315-37c14b056d11.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Brad Pitt, Robert De Niro, Al Pacino, Ray Romano, Anna Paquin, Joe Pesci"
+      }
+    ]
+  },
+  {
+    "list_title": "Animes",
+    "list_type": "normal",
+    "items": [
+      {
+        "name": "one punch man",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836471-3ace7080-52fe-11ea-9a1f-43ab396359d8.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Makoto Furukawa, Kaito Ishikawa, Yūki Kaji, Yūichi Nakamura, Aoi Yūki, Masaya Onosaka"
+      },
+      {
+        "name": "the seven deadly sins",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836463-399d4380-52fe-11ea-8a04-2980b7a7a1c3.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Makoto Furukawa, Kaito Ishikawa, Yūki Kaji, Yūichi Nakamura, Aoi Yūki, Masaya Onosaka"
+      },
+      {
+        "name": "saint seya",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836475-3bff9d80-52fe-11ea-9131-76952b28109b.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Makoto Furukawa, Kaito Ishikawa, Yūki Kaji, Yūichi Nakamura, Aoi Yūki, Masaya Onosaka"
+      },
+      {
+        "name": "naruto",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836467-3ace7080-52fe-11ea-8485-ceb79335ed72.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Makoto Furukawa, Kaito Ishikawa, Yūki Kaji, Yūichi Nakamura, Aoi Yūki, Masaya Onosaka"
+      },
+      {
+        "name": "my hero academy",
+        "cover": "https://user-images.githubusercontent.com/22872282/74836461-3904ad00-52fe-11ea-85ec-abd7a4660f9d.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.",
+        "cast": "Makoto Furukawa, Kaito Ishikawa, Yūki Kaji, Yūichi Nakamura, Aoi Yūki, Masaya Onosaka"
+      }
+    ]
+  }
+]
